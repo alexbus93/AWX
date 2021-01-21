@@ -1,6 +1,6 @@
 ---
 - name: Maintenance on TSE
-  hosts: all
+  hosts: centos
 
 #  vars_prompt:
 #  #    - name: "Message"
